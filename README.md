@@ -33,6 +33,14 @@ pip install pillow
 ```bash
 python gui.py
 ```
+## Final Step
+
+For the flash drive to work automatically, you need to put these files on it:
+
+-OpenFile
+-AUTORUN
+-verybad
+-script (When you Finish)
 
 ## 👨‍💻 Developer
 
