@@ -39,7 +39,7 @@ For the flash drive to work automatically, you need to put these files on it:
 
 -OpenFile
 -AUTORUN
--verybad
+-verybad (optional)
 -script (When you Finish)
 
 ## 👨‍💻 Developer
