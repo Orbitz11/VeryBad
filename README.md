@@ -10,8 +10,8 @@ Ex: ipconfig
 ## wallpaper change
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fd8b5960-4cc7-49a0-94e9-dac122fb95c0" />
 
-Write: the image path
-Ex: C:\Users\user\Pictures\Screenshots\image
+-Write: the image path
+-Ex: C:\Users\user\Pictures\Screenshots\image
 
 ## print text
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0f60d577-cda4-4062-8e69-7cdbd1e839ed" />
